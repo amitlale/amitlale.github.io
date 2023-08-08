@@ -2,7 +2,7 @@
 layout: post
 title: "Generics in .NET"
 categories: [.NET,Generics,C#]
-excerpt: Generics are a powerful feature of .NET that allow for the creation of reusable code that can work with a variety of data types. In this post, we'll explore what generics are, when and why to use them, examples of generics, and covariance and contravariance with examples.
+excerpt: Generics are a powerful feature of .NET that allow for the creation of reusable code that can work with a variety of data types. In this post, we'll explore what generics are and when and why to use them.
 ---
 # Generics in .NET
 
