@@ -10,7 +10,6 @@ excerpt: The mental health of software developers should be given the attention 
 
 In today's fast-paced and demanding world, mental health has become a critical aspect of overall well-being, even in the software development industry. Many professionals in this field often face unique challenges that can have a detrimental impact on their mental well-being. This article aims to shed light on the significance of prioritizing mental health for software developers and provide valuable insights on how to build a strong mind in this line of work.
 
-
 ## Understanding Mental Health Challenges in Software Development
 
 ### A. Prevalence of mental health issues among software developers
