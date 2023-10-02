@@ -4,7 +4,7 @@ title: "Boost Performance in ADO .NET Code - Limiting Data"
 categories: [.NET,ADO.NET,C#, Performance]
 excerpt: Limit the data retrieved in ADO .NET to boost the performance.
 ---
-# TIP 2: Limiting Data
+# Boost ADO .NET Performance TIP 2: Limiting Data
 
 ## Introduction
 Continuing in the series of 10 Proven Ways to Boost Performance in ADO .NET Code, this article will explore the second tip: Limiting Data. In the world of software development, performance is a critical factor that can significantly impact user experience. When it comes to database operations, such as querying and updating data, limiting the amount of data retrieved can greatly enhance the performance of ADO .NET applications. We will explore the benefits of limiting data in .NET and provide examples to illustrate their effectiveness.
