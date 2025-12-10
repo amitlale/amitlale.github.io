@@ -4,7 +4,7 @@ title: "Agentic AI - Chatbots to Colleagues"
 categories: [AI, Agentic AI]
 excerpt: Agentic AI marks the shift from reactive chatbots to autonomous systems that perceive, reason, act, and learn—but with 40% of projects projected to fail by 2027, success demands more than just deploying the latest technology.
 ---
-
+![](../images/AgenticAIBlogImage.png)
 # From Chatbots to Autonomous Problem-Solvers: The Rise of Agentic AI
 
 If you've been working with AI for the past couple of years, you've probably noticed something. We've moved beyond the initial excitement of generative AI—those impressive chatbots that could write essays or answer questions based on a single prompt. The technology was remarkable, but it was fundamentally reactive. You asked, it answered. Simple as that.
